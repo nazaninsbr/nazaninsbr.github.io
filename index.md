@@ -2,6 +2,10 @@
 
 I am Nazanin, a first-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm a member of the [*Trustworthy Data Management and Analysis*](https://dbucsd.github.io) lab, working with [Dr. Babak Salimi](https://bsalimi.github.io). 
 
+I'm currently working on the use of causal inference in reasoning about and dealing with biases in the machine learning pipeline. 
+
+Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pdf). 
+
 ### Publications
 
 * **Nazanin Sabri**, Sadaf Sadeghian, and Behnam Bahrak. [“A cross-country study on cultural similarities based on book preferences.”](https://www.springerprofessional.de/en/a-cross-country-study-on-cultural-similarities-based-on-book-pre/18481234) Social Network Analysis and Mining, 10, 86 (2020).
