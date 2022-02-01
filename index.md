@@ -1,10 +1,10 @@
 ## About
 
-I am Nazanin, a first-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm a member of the *Trustworthy Data Management and Analysis* lab, working with Dr. Babak Salimi. 
+I am Nazanin, a first-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm a member of the [*Trustworthy Data Management and Analysis*](https://dbucsd.github.io) lab, working with [Dr. Babak Salimi](https://bsalimi.github.io). 
 
 ### Publications
 
-* **Nazanin Sabri**, Sadaf Sadeghian, and Behnam Bahrak. <href a="https://www.springerprofessional.de/en/a-cross-country-study-on-cultural-similarities-based-on-book-pre/18481234">“A cross-country study on cultural similarities based on book preferences.”</a> Social Network Analysis and Mining, 10, 86 (2020).
+* **Nazanin Sabri**, Sadaf Sadeghian, and Behnam Bahrak. [“A cross-country study on cultural similarities based on book preferences.”](https://www.springerprofessional.de/en/a-cross-country-study-on-cultural-similarities-based-on-book-pre/18481234) Social Network Analysis and Mining, 10, 86 (2020).
 * **Nazanin Sabri**, Ridhi Kashyap, and Ingmar Weber. “Examining Global Mobile Diffu- sion and Mobile Gender Gaps through Facebook’s Advertising Data.” In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, pp. 287-290. 2021.
 * **Nazanin Sabri**, and Ingmar Weber. “A Global Book Reading Dataset.” Data 6, no. 8 (2021): 83.
 * **Nazanin Sabri**, Ali Edalat, and Behnam Bahrak. “Sentiment Analysis of Persian- English Code-mixed Texts.” 2021 26th International Computer Conference, Computer Society of Iran (CSICC). IEEE, 2021.
