@@ -17,5 +17,5 @@ I am Nazanin, a first-year Computer Science Ph.D. student at the University of C
 
 ### Pre-prints
 
-* Yasaman Jafari, **Nazanin Sabri**, and Behnam Bahrak. ”Investigating the effects of Goodreads challenges on individuals reading habits.” arXiv preprint arXiv:2012.03932
+* Yasaman Jafari, **Nazanin Sabri**, and Behnam Bahrak. ["Investigating the effects of Goodreads challenges on individuals reading habits.”](https://arxiv.org/abs/2012.03932) arXiv preprint arXiv:2012.03932
 (2020).
