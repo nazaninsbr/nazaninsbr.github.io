@@ -1,6 +1,6 @@
 ## About
 
-I am Nazanin, a first-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm a member of the [*Trustworthy Data Management and Analysis*](https://dbucsd.github.io) lab, working with [Dr. Babak Salimi](https://bsalimi.github.io). 
+I am Nazanin, a first-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm a member of the [*Computing For Social Good*](https://melsherief.eng.ucsd.edu/research) lab, working with [Dr. Mai ElSherief](https://melsherief.eng.ucsd.edu/home). 
 
 I'm currently working on the use of causal inference in reasoning about and dealing with biases in the machine learning pipeline. 
 
