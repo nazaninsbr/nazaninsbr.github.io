@@ -8,6 +8,7 @@ Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pd
 
 ### Publications
 
+* **Nazanin Sabri**, Bella Chen, Annabelle Teoh, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2023. Challenges of Moderating Social Virtual Reality. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 384, 1–20. https://doi.org/10.1145/3544548.3581329
 * **Nazanin Sabri**, Sadaf Sadeghian, and Behnam Bahrak. [“A cross-country study on cultural similarities based on book preferences.”](https://www.springerprofessional.de/en/a-cross-country-study-on-cultural-similarities-based-on-book-pre/18481234) Social Network Analysis and Mining, 10, 86 (2020).
 * **Nazanin Sabri**, Ridhi Kashyap, and Ingmar Weber. [“Examining Global Mobile Diffusion and Mobile Gender Gaps through Facebook’s Advertising Data.”](https://dl.acm.org/doi/10.1145/3465336.3475120) In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, pp. 287-290. 2021.
 * **Nazanin Sabri**, and Ingmar Weber. [“A Global Book Reading Dataset.”](https://www.mdpi.com/2306-5729/6/8/83) Data 6, no. 8 (2021): 83.
