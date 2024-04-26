@@ -1,6 +1,6 @@
 ## About
 
-I am Nazanin, a first-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm advised by [Dr. Mai ElSherief](https://melsherief.eng.ucsd.edu/home) & [Dr. Kristen Vaccaro](https://kvaccaro.com/). 
+I'm Nazanin, a third-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm advised by [Dr. Mai ElSherief](https://melsherief.eng.ucsd.edu/home) & [Dr. Kristen Vaccaro](https://kvaccaro.com/). 
 
 <!-- I'm currently working on the use of causal inference in reasoning about and dealing with biases in the machine learning pipeline.  -->
 
