@@ -4,7 +4,7 @@ I am Nazanin, a first-year Computer Science Ph.D. student at the University of C
 
 <!-- I'm currently working on the use of causal inference in reasoning about and dealing with biases in the machine learning pipeline.  -->
 
-Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pdf). 
+Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV_April_2024.pdf). 
 
 ### Publications
 
