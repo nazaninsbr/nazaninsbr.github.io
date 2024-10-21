@@ -1,10 +1,13 @@
 ## About
 
-I'm Nazanin, a third-year Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm advised by [Dr. Mai ElSherief](https://melsherief.eng.ucsd.edu/home) and [Dr. Kristen Vaccaro](https://kvaccaro.com/). 
+I'm Nazanin, Computer Science Ph.D. student at the University of California, San Diego (UCSD). I'm advised by [Dr. Mai ElSherief](https://melsherief.eng.ucsd.edu/home) and [Dr. Kristen Vaccaro](https://kvaccaro.com/). 
+
+**Research Interests**: Societal Computing, Computational Social Science (CSS), Natural Language Processing (NLP) for Social Good, Applied Machine Learning, Human-Computer Interaction (HCI),
+Online Safety & Content Moderation
 
 <!-- I'm currently working on the use of causal inference in reasoning about and dealing with biases in the machine learning pipeline.  -->
 
-Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pdf). 
+Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=8wIr3uEAAAAJ&hl=en) profile. 
 
 ### Publications
 
