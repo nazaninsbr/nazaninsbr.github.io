@@ -32,7 +32,7 @@ Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pd
 * Yasaman Jafari, **Nazanin Sabri**, and Behnam Bahrak. ["Investigating the effects of Goodreads challenges on individuals reading habits.”](https://arxiv.org/abs/2012.03932) arXiv preprint arXiv:2012.03932
 (2020).
  
-### Posters
+### Poster Summaries of Some of My Work
 
 * **Nazanin Sabri**, Yutong Chen, Marissa Lee, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2025. "The Balancing Act of Social Audio Facilitators: WhenSelf-Promotion Overshadows Community Care". To appear in CSCW 2025.
 
