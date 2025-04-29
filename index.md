@@ -11,8 +11,10 @@ Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pd
 
 ### Publications
 
+* **Nazanin Sabri**, Yutong Chen, Marissa Lee, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2025. "The Balancing Act of Social Audio Facilitators: WhenSelf-Promotion Overshadows Community Care". To appear in CSCW 2025.
 * **Nazanin Sabri**, Bella Chen, Annabelle Teoh, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2023. ["Challenges of Moderating Social Virtual Reality"]((https://dl.acm.org/doi/full/10.1145/3544548.3581329)). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 384, 1–20. https://doi.org/10.1145/3544548.3581329
-* **Nazanin Sabri**, Anh C. Pham, Ishita Kakkar, Mai ElSherief. “Inferring Mental Burnout Discourse Across Reddit Communities.” To appear in The 3rd Workshop on NLP for Positive Impact collocated with EMNLP 2024.
+* Ashwin Rao, **Nazanin Sabri**, Siyi Guo, Louiqa Raschid, and Kristina Lerman. "Public Health Messaging on Twitter During the COVID-19 Pandemic: Observational Study." Journal of Medical Internet Research 27 (2025): e63910.
+* **Nazanin Sabri**, Anh Pham, Ishita Kakkar, and Mai ElSherief. "Inferring Mental Burnout Discourse Across Reddit Communities." In Proceedings of the Third Workshop on NLP for Positive Impact, pp. 224-231. 2024.
 * **Nazanin Sabri**, Sadaf Sadeghian, and Behnam Bahrak. [“A cross-country study on cultural similarities based on book preferences.”](https://www.springerprofessional.de/en/a-cross-country-study-on-cultural-similarities-based-on-book-pre/18481234) Social Network Analysis and Mining, 10, 86 (2020).
 * **Nazanin Sabri**, Ridhi Kashyap, and Ingmar Weber. [“Examining Global Mobile Diffusion and Mobile Gender Gaps through Facebook’s Advertising Data.”](https://dl.acm.org/doi/10.1145/3465336.3475120) In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, pp. 287-290. 2021.
 * **Nazanin Sabri**, and Ingmar Weber. [“A Global Book Reading Dataset.”](https://www.mdpi.com/2306-5729/6/8/83) Data 6, no. 8 (2021): 83.
@@ -26,5 +28,17 @@ Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pd
 
 ### Pre-prints
 
+* **Nazanin Sabri**, and Mai Elsherief. "Posting Patterns of Members of Parental Subreddits." arXiv preprint arXiv:2501.16193 (2025).
 * Yasaman Jafari, **Nazanin Sabri**, and Behnam Bahrak. ["Investigating the effects of Goodreads challenges on individuals reading habits.”](https://arxiv.org/abs/2012.03932) arXiv preprint arXiv:2012.03932
 (2020).
+ 
+### Posters
+
+* **Nazanin Sabri**, Yutong Chen, Marissa Lee, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2025. "The Balancing Act of Social Audio Facilitators: WhenSelf-Promotion Overshadows Community Care". To appear in CSCW 2025.
+
+![facilitation poster](https://github.com/nazaninsbr/nazaninsbr.github.io/blob/main/Files/facilitation_2025_poster.png)
+  
+* **Nazanin Sabri**, Anh Pham, Ishita Kakkar, and Mai ElSherief. "Inferring Mental Burnout Discourse Across Reddit Communities." In Proceedings of the Third Workshop on NLP for Positive Impact, pp. 224-231. 2024.
+
+![burnout poster](https://github.com/nazaninsbr/nazaninsbr.github.io/blob/main/Files/burnout_poster.png)
+
