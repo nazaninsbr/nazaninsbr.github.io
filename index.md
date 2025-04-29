@@ -36,9 +36,9 @@ Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pd
 
 * **Nazanin Sabri**, Yutong Chen, Marissa Lee, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2025. "The Balancing Act of Social Audio Facilitators: WhenSelf-Promotion Overshadows Community Care". To appear in CSCW 2025.
 
-![facilitation poster](/nazaninsbr.github.io/Files/facilitation_2025_poster.png)
+![facilitation poster](/Files/facilitation_2025_poster.png)
   
 * **Nazanin Sabri**, Anh Pham, Ishita Kakkar, and Mai ElSherief. "Inferring Mental Burnout Discourse Across Reddit Communities." In Proceedings of the Third Workshop on NLP for Positive Impact, pp. 224-231. 2024.
 
-![burnout poster](/nazaninsbr.github.io/Files/burnout_poster.png)
+![burnout poster](/Files/burnout_poster.png)
 
