@@ -11,7 +11,7 @@ Feel free to [email](mailto:nsabri@ucsd.edu) me or check out my [CV](Files/CV.pd
 
 ### Publications
 
-* **Nazanin Sabri**, Yutong Chen, Marissa Lee, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2025. "The Balancing Act of Social Audio Facilitators: WhenSelf-Promotion Overshadows Community Care". To appear in CSCW 2025.
+* **Nazanin Sabri**, Yutong Chen, Marissa Lee, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2025. ["The Balancing Act of Social Audio Facilitators: When Self-Promotion Overshadows Community Care"](https://dl.acm.org/doi/10.1145/3710981). Proc. ACM Hum.-Comput. Interact. 9, 2, Article CSCW083 (May 2025), 34 pages. https://doi.org/10.1145/3710981
 * **Nazanin Sabri**, Bella Chen, Annabelle Teoh, Steven P. Dow, Kristen Vaccaro, and Mai Elsherief. 2023. ["Challenges of Moderating Social Virtual Reality"]((https://dl.acm.org/doi/full/10.1145/3544548.3581329)). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 384, 1–20. https://doi.org/10.1145/3544548.3581329
 * Ashwin Rao, **Nazanin Sabri**, Siyi Guo, Louiqa Raschid, and Kristina Lerman. ["Public Health Messaging on Twitter During the COVID-19 Pandemic: Observational Study."](https://www.jmir.org/2025/1/e63910/) Journal of Medical Internet Research 27 (2025): e63910.
 * **Nazanin Sabri**, Anh Pham, Ishita Kakkar, and Mai ElSherief. ["Inferring Mental Burnout Discourse Across Reddit Communities."](https://aclanthology.org/2024.nlp4pi-1.21/) In Proceedings of the Third Workshop on NLP for Positive Impact, pp. 224-231. 2024.
