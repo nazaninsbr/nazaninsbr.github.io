@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Nazanin Sabri"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "HCI & Social Computing PhD candidate at UCSD + novice runner, sourdough baker, and boulderer!"
   location         : "San Diego"
   employer         : "University of California, San Diego"
   uri              : # URL
@@ -40,8 +40,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0861-9444"
   semantic         : # URL
-  pubmed           : "https://www.researchgate.net/profile/Nazanin-Sabri"
-  researchgate     : # URL
+  pubmed           : #URL 
+  researchgate     : "https://www.researchgate.net/profile/Nazanin-Sabri"
   scopus           : # URL
 
   # Repositories and software development
