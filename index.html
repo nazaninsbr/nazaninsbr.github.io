@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nazanin Sabri · PhD Candidate, UCSD</title>
+  <meta name="description" content="Nazanin Sabri — Computer Science PhD Candidate at UC San Diego. Researcher in Computational Social Science, HCI, and Online Safety." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<!-- ═══ TOP NAVBAR ═══ -->
+<header class="topnav">
+  <a class="topnav-brand" href="#home" data-page="home">
+    <div class="avatar-ring"><img src="material/icon_image.jpeg" alt="Nazanin Sabri"></div>
+    <div>
+      <div class="brand-name">Nazanin Sabri</div>
+      <div class="brand-sub">PhD Candidate · UCSD CS</div>
+    </div>
+  </a>
+
+  <nav class="topnav-links">
+    <a href="#home" data-page="home" class="active">Home &amp; News</a>
+    <a href="#publications" data-page="publications">Publications</a>
+    <a href="#service" data-page="service">Service</a>
+    <a href="#posters" data-page="posters">Posters</a>
+    <a href="#cv" data-page="cv">CV</a>
+  </nav>
+
+  <div class="topnav-social">
+    <a href="https://scholar.google.com/citations?user=8wIr3uEAAAAJ" target="_blank" title="Google Scholar"><i class="fa-brands fa-google-scholar"></i></a>
+    <a href="https://www.linkedin.com/in/nazanin-sabri/" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="https://github.com/nazaninsbr" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
+    <a href="mailto:nsabri@ucsd.edu" title="Email"><i class="fa-solid fa-at"></i></a>
+  </div>
+
+  <button class="hamburger" id="hamburger" aria-label="Open menu">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<!-- Mobile drawer -->
+<div class="mobile-menu" id="mobile-menu">
+  <a href="#home" data-page="home" class="active">Home &amp; News</a>
+  <a href="#publications" data-page="publications">Publications</a>
+  <a href="#service" data-page="service">Service</a>
+  <a href="#posters" data-page="posters">Posters</a>
+  <a href="#cv" data-page="cv">CV</a>
+</div>
+
+<!-- ═══ MAIN ═══ -->
+<main class="main">
+
+  <!-- ── HOME & NEWS ── -->
+  <div class="page active" id="page-home">
+    <div class="page-header">
+      <div class="page-header-inner">
+        <h1>Hi, I'm Nazanin.</h1>
+      </div>
+    </div>
+    <div class="page-body">
+
+      <div class="home-top">
+        <div class="home-intro">
+          <p>
+            I'm a Computer Science PhD student at the <strong>University of California, San Diego</strong>,
+            advised by <a href="https://kvaccaro.com/" target="_blank" style="color:var(--blue-light);text-decoration:none;">Dr. Kristen Vaccaro</a> and <a href="https://www.maielsherief.com/" target="_blank" style="color:var(--blue-light);text-decoration:none;">Dr. Mai ElSherief</a>.
+          </p>
+          <p>
+            My research broadly sits at the intersection of <strong>Online Safety</strong>, <strong>Human-Computer Interaction</strong>, and 
+            <strong>Computational Social Science</strong>.
+            I study online communities, content moderation, and audtis ot platform features such as targeted advertising.
+          </p>
+          <p>
+            Before UCSD, I completed my master's and bachelor's degree at the University of Tehran.
+          </p>
+        </div>
+        <div class="home-photo">
+          <img src="material/icon_image.jpeg" alt="Nazanin Sabri">
+        </div>
+      </div>
+
+      <h2 class="section-title">News</h2>
+
+      <div class="news-list">
+        <div class="news-item">
+          <div class="news-date">April 2026</div>
+          <div class="news-text">
+            <strong>UCR FAME Workshop:</strong> I recieved an award at the UCR FAME workshop (15% acceptance rate).
+          </div>
+        </div>
+        <div class="news-item">
+          <div class="news-date">October 2025</div>
+          <div class="news-text">
+            <strong>CSCW 2025 Honorable Mention:</strong> Our paper "The Balancing Act of Social Audio Facilitators: When Self-Promotion Overshadows Community Care" recieved an honorable mention in CSCW 2025.
+          </div>
+        </div>
+        <div class="news-item">
+          <div class="news-date">September 2025</div>
+          <div class="news-text">
+            <strong>The Trust and Safety Research Conference 2025 Honorable Mention:</strong> My lightning talk on "Designing for Facilitation and Moderation in Ephemeral Social Media Spaces" at the T&S conference recieved an honorable mention.
+          </div>
+        </div>
+        <div class="news-item">
+          <div class="news-date">Summer 2025</div>
+          <div class="news-text">
+            Completed a research internship at <strong>NYU</strong> with <strong>Dr. Rosanna Bellini</strong>. 
+          </div>
+        </div>
+        <div class="news-item">
+          <div class="news-date">April 2023</div>
+          <div class="news-text">
+            Presented our work "Challenges of Moderating Social Virtual Reality" at <strong>CHI 2023</strong>.
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── PUBLICATIONS ── -->
+  <div class="page" id="page-publications">
+    <div class="page-header">
+      <div class="page-header-inner">
+        <div class="page-header-accent">Research</div>
+        <h1>Publications</h1>
+      </div>
+    </div>
+    <div class="page-body">
+
+      <div class="pub-filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="journal">Journal</button>
+        <button class="filter-btn" data-filter="conference">Conference</button>
+        <button class="filter-btn" data-filter="workshop">Workshops</button>
+        <button class="filter-btn" data-filter="preprint">Preprints</button>
+      </div>
+
+      <div class="pub-list">
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment</div>
+          <div class="pub-authors">Antonia Karamolegkou, Ashutosh Borah, Edward Cho, Sayan Ray Choudhury, Marco Galletti, Parth Gupta, Oana Ignat, Pinaki Kargupta, Neema Kotonya, Hemank Lamba, et al.</div>
+          <div class="pub-meta"><span class="venue-badge">EACL 2026</span><span class="pub-year">2026</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-arxiv" data-type="preprint">
+          <div class="pub-title">"He gets to be the fun parent": Understanding and Supporting Burnt-Out Mothers in Online Communities</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, A. Malik, B. Shu, J. Snyder, L. Kramer, and M. Elsherief</div>
+          <div class="pub-meta"><span class="venue-badge gray">arXiv 2026</span><span class="pub-year">2026</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">The Balancing Act of Social Audio Facilitators: When Self-Promotion Overshadows Community Care [Honorable Mention]</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, Y. Chen, M. Lee, S. P. Dow, K. Vaccaro, and M. ElSherief</div>
+          <div class="pub-meta"><span class="venue-badge">ACM CSCW 2025</span><span class="pub-year">2025</span><div class="pub-links"><a class="pub-link" href="https://doi.org/10.1145/3710981" target="_blank">DOI</a></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">Are LLMs Empathetic to All? Investigating the Influence of Multi-Demographic Personas on a Model's Empathy</div>
+          <div class="pub-authors">A. Malik, <span class="me">Nazanin Sabri</span>, M. Karnaze, and M. Elsherief</div>
+          <div class="pub-meta"><span class="venue-badge">EMNLP 2025</span><span class="pub-year">2025</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-journal" data-type="journal">
+          <div class="pub-title">Public Health Messaging on Twitter During the COVID-19 Pandemic: Observational Study</div>
+          <div class="pub-authors">A. Rao, <span class="me">Nazanin Sabri</span>, S. Guo, L. Raschid, and K. Lerman</div>
+          <div class="pub-meta"><span class="venue-badge green">JMIR 2025</span><span class="pub-year">2025</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-journal" data-type="journal">
+          <div class="pub-title">The Double Burden of Moderators: Safeguarding Communities While Facing Identity-Based Harassment</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, K. Vaccaro, and M. ElSherief</div>
+          <div class="pub-meta"><span class="venue-badge green">IEEE Security &amp; Privacy 2025</span><span class="pub-year">2025</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-arxiv" data-type="preprint">
+          <div class="pub-title">Posting Patterns of Members of Parental Subreddits</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span> and M. Elsherief</div>
+          <div class="pub-meta"><span class="venue-badge gray">arXiv 2025</span><span class="pub-year">2025</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-workshop" data-type="workshop">
+          <div class="pub-title">Inferring Mental Burnout Discourse Across Reddit Communities</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, A. Pham, I. Kakkar, and M. ElSherief</div>
+          <div class="pub-meta"><span class="venue-badge yellow">NLP4PI 2024</span><span class="pub-year">2024</span><div class="pub-links"><a class="pub-link" href="https://aclanthology.org/2024.nlp4pi-1.21/" target="_blank">ACL Anthology</a></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">Challenges of Moderating Social Virtual Reality</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, B. Chen, A. Teoh, S. P. Dow, K. Vaccaro, and M. Elsherief</div>
+          <div class="pub-meta"><span class="venue-badge">CHI 2023</span><span class="pub-year">2023</span><div class="pub-links"><a class="pub-link" href="https://doi.org/10.1145/3544548.3581329" target="_blank">DOI</a></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">Consistent range approximation for fair predictive modeling</div>
+          <div class="pub-authors">J. Zhu, S. Galhotra, <span class="me">Nazanin Sabri</span>, and B. Salimi</div>
+          <div class="pub-meta"><span class="venue-badge">VLDB 2023</span><span class="pub-year">2023</span><div class="pub-links"><a class="pub-link" href="https://doi.org/10.14778/3611479.3611498" target="_blank">DOI</a></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">Gender Pay Gap in Sports on a Fan-Request Celebrity Video Site</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, S. Reysen, and I. Weber</div>
+          <div class="pub-meta"><span class="venue-badge">WWW 2023</span><span class="pub-year">2023</span><div class="pub-links"><a class="pub-link" href="https://doi.org/10.1145/3543507.3583884" target="_blank">DOI</a></div></div>
+        </div>
+
+        <div class="pub-card venue-journal" data-type="journal">
+          <div class="pub-title">Quantitative analysis of fanfictions' popularity</div>
+          <div class="pub-authors">Z. Sourati Hassan Zadeh, <span class="me">Nazanin Sabri</span>, H. Chamani, and B. Bahrak</div>
+          <div class="pub-meta"><span class="venue-badge green">SNAM 2022</span><span class="pub-year">2022</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-workshop" data-type="workshop">
+          <div class="pub-title">Exploring the Similarities of Iranian Influencers with Regards to Content, Relationships and Interactions with Users</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, M. S. Mahdizadeh, R. A. Khantazi, and B. Bahrak</div>
+          <div class="pub-meta"><span class="venue-badge yellow">CSICC 2022</span><span class="pub-year">2022</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-arxiv" data-type="preprint">
+          <div class="pub-title">Persian Emotion Detection using ParsBERT and Imbalanced Data Handling Approaches</div>
+          <div class="pub-authors">A. Abaskohi, <span class="me">Nazanin Sabri</span>, and B. Bahrak</div>
+          <div class="pub-meta"><span class="venue-badge gray">arXiv 2022</span><span class="pub-year">2022</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">Sentiment Analysis of Persian-English Code-mixed Texts</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, A. Edalat, and B. Bahrak</div>
+          <div class="pub-meta"><span class="venue-badge">CSICC 2021</span><span class="pub-year">2021</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">Examining Global Mobile Diffusion and Mobile Gender Gaps through Facebook's Advertising Data</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, R. Kashyap, and I. Weber</div>
+          <div class="pub-meta"><span class="venue-badge">Hypertext 2021</span><span class="pub-year">2021</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">Leveraging Bias in Pre-Trained Word Embeddings for Unsupervised Microaggression Detection</div>
+          <div class="pub-authors">T. Ògúnremí, <span class="me">Nazanin Sabri</span>, V. Basile, and T. Caselli</div>
+          <div class="pub-meta"><span class="venue-badge">CLiC-it 2021</span><span class="pub-year">2021</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-journal" data-type="journal">
+          <div class="pub-title">A Global Book Reading Dataset</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span> and I. Weber</div>
+          <div class="pub-meta"><span class="venue-badge green">Data 2021</span><span class="pub-year">2021</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-workshop" data-type="workshop">
+          <div class="pub-title">EmoPars: A Collection of 30K Emotion-Annotated Persian Social Media Texts</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span>, R. Akhavan, and B. Bahrak</div>
+          <div class="pub-meta"><span class="venue-badge yellow">RANLP 2021</span><span class="pub-year">2021</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-workshop" data-type="workshop">
+          <div class="pub-title">UTNLP at SemEval-2021 Task 5: A Comparative Analysis of Toxic Span Detection using Attention-based, Named Entity Recognition, and Ensemble Models</div>
+          <div class="pub-authors">A. Salemi, <span class="me">Nazanin Sabri</span>, E. Kebriaei, B. Bahrak, and A. Shakery</div>
+          <div class="pub-meta"><span class="venue-badge yellow">SemEval 2021</span><span class="pub-year">2021</span><div class="pub-links"><a class="pub-link" href="https://aclanthology.org/2021.semeval-1.136/" target="_blank">ACL Anthology</a></div></div>
+        </div>
+
+        <div class="pub-card venue-conf" data-type="conference">
+          <div class="pub-title">An Analysis of GitLab's Users and Projects Networks</div>
+          <div class="pub-authors">H. Safari, <span class="me">Nazanin Sabri</span>, F. Shahsavan, and B. Bahrak</div>
+          <div class="pub-meta"><span class="venue-badge">IST 2020</span><span class="pub-year">2020</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-journal" data-type="journal">
+          <div class="pub-title">A cross-country study on cultural similarities based on book preferences</div>
+          <div class="pub-authors"><span class="me">Nazanin Sabri</span> and I. Weber</div>
+          <div class="pub-meta"><span class="venue-badge green">SocInfo 2020</span><span class="pub-year">2020</span><div class="pub-links"></div></div>
+        </div>
+
+        <div class="pub-card venue-workshop" data-type="workshop">
+          <div class="pub-title">Emad at SemEval-2019 Task 6: Offensive language identification using traditional machine learning and deep learning approaches</div>
+          <div class="pub-authors">E. Kebriaei, S. Karimi, <span class="me">Nazanin Sabri</span>, and A. Shakery</div>
+          <div class="pub-meta"><span class="venue-badge yellow">SemEval 2019</span><span class="pub-year">2019</span><div class="pub-links"></div></div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- ── SERVICE ── -->
+  <div class="page" id="page-service">
+    <div class="page-header">
+      <div class="page-header-inner">
+        <div class="page-header-accent">Community</div>
+        <h1>Service</h1>
+      </div>
+    </div>
+    <div class="page-body">
+      <div class="service-grid">
+        <div class="service-card">
+          <div class="service-card-title">Reviewing</div>
+          <ul class="service-list-plain">
+            <li>ACM CHI (2024, 2025)</li>
+            <li>ACM CSCW (2024, 2025)</li>
+            <li>ICWSM (2024, 2026)</li>
+            <li>WOAH (2024)</li>
+            <li>UIST (2024)</li>
+            <li>Journal of Social Network Analysis and Mining (2026)</li>
+          </ul>
+        </div>
+        <div class="service-card">
+          <div class="service-card-title">Mentorship</div>
+          <ul class="service-list-plain">
+            <li>Mentoring undergraduate students in research projects.</li>
+            <li>Mentoring master's students as part of the CSE Women in Computing (UCSD)</li>
+          </ul>
+        </div>
+        <div class="service-card">
+          <div class="service-card-title">Department &amp; Lab Service</div>
+          <ul class="service-list-plain">
+            <li>Design Lab DISCO</li>
+            <li>University of Tehran's ACM Chapter</li>
+          </ul>
+        </div>
+        <div class="service-card">
+          <div class="service-card-title">Talks</div>
+          <ul class="service-list-plain">
+            <li>University of California Riverside (2026)</li>
+            <li>The Trust and Safety Research Conference (2025)</li>
+            <li>CHI paper presentation (2023)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── POSTERS ── -->
+  <div class="page" id="page-posters">
+    <div class="page-header">
+      <div class="page-header-inner">
+        <div class="page-header-accent">Presentations</div>
+        <h1>Posters</h1>
+      </div>
+    </div>
+    <div class="page-body">
+
+      <div class="poster-list">
+
+        <div class="poster-card">
+          <div class="poster-thumb">
+            <iframe src="material/posters/expo2.pdf"></iframe>
+            <span class="poster-venue-chip">Research Expo 2026</span>
+          </div>
+          <div class="poster-body">
+            <h3>Reading into Conversations: A Facilitator-Centered Exploration of Visualizing Conversation Metrics</h3>
+            <p>UC San Diego Jacobs School of Engineering's 44th annual Research Expo (2026)</p>
+            <div class="poster-links">
+              <a class="poster-link" href="material/posters/expo2.pdf" target="_blank"><i class="fa-regular fa-file-pdf"></i> View PDF</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="poster-card">
+          <div class="poster-thumb">
+            <img src="material/posters/facilitation_2025_poster.png" alt="Social Audio Facilitators poster">
+            <span class="poster-venue-chip">Research Expo 2025</span>
+          </div>
+          <div class="poster-body">
+            <h3>Social Audio Facilitators: Balancing Self-Promotion &amp; Community Care</h3>
+            <p>UC San Diego Jacobs School of Engineering's 43rd annual Research Expo (2025)</p>
+            <div class="poster-links">
+              <a class="poster-link" href="material/posters/facilitation_2025_poster.png" target="_blank"><i class="fa-regular fa-image"></i> View full size</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="poster-card">
+          <div class="poster-thumb">
+            <img src="material/posters/burnout_poster.png" alt="Inferring Mental Burnout Discourse poster">
+            <span class="poster-venue-chip">NLP4PI · EMNLP 2024</span>
+          </div>
+          <div class="poster-body">
+            <h3>Inferring Mental Burnout Discourse Across Reddit Communities</h3>
+            <p>NLP for Positive Impact Workshop · EMNLP 2024</p>
+            <div class="poster-links">
+              <a class="poster-link" href="material/posters/burnout_poster.png" target="_blank"><i class="fa-regular fa-image"></i> View full size</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- ── CV ── -->
+  <div class="page" id="page-cv">
+    <div class="page-header">
+      <div class="page-header-inner">
+        <div class="page-header-accent">Curriculum Vitae</div>
+        <h1>CV</h1>
+      </div>
+    </div>
+    <div class="page-body">
+
+      <div class="cv-download-bar">
+        <p>Full CV available — last updated April 2026</p>
+        <a class="cv-download-btn" href="material/cv/CV.pdf" target="_blank">Download PDF ↓</a>
+      </div>
+
+      <div class="cv-section">
+        <h2 class="section-title">Education</h2>
+        <div class="cv-entry">
+          <div class="cv-year">2021–present</div>
+          <div>
+            <div class="cv-title">PhD, Computer Science</div>
+            <div class="cv-place">University of California, San Diego</div>
+            <div class="cv-desc">Advisors: Dr. Kristen Vaccaro &amp; Dr. Mai ElSherief</div>
+          </div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-year">2019–2021</div>
+          <div>
+            <div class="cv-title">MSc, Artificial Intelligence</div>
+            <div class="cv-place">University of Tehran</div>
+          </div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-year">2015–2019</div>
+          <div>
+            <div class="cv-title">BSc, Computer Engineering</div>
+            <div class="cv-place">University of Tehran</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cv-section">
+        <h2 class="section-title">Experience</h2>
+        <div class="cv-entry">
+          <div class="cv-year">Summer 2025</div>
+          <div>
+            <div class="cv-title">Visiting Researcher</div>
+            <div class="cv-place">New York University (Mentor: <a href="https://www.rosiebellini.com/" target="_blank" style="color:var(--blue-light);text-decoration:none;">Dr. Rosanna Bellini</a>)</div>
+          </div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-year">Summer 2023</div>
+          <div>
+            <div class="cv-title">Visiting Researcher</div>
+            <div class="cv-place">University of Southern California (Mentor: <a href="https://scholar.google.com/citations?user=eTqZ8dIAAAAJ&hl=en" target="_blank" style="color:var(--blue-light);text-decoration:none;">Dr. Kristina Lerman</a>)</div>
+          </div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-year">Summer 2022</div>
+          <div>
+            <div class="cv-title">Data Science Intern</div>
+            <div class="cv-place">Eluvio</div>
+          </div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-year">2020–2023</div>
+          <div>
+            <div class="cv-title">Research Assistant</div>
+            <div class="cv-place">Mentor: <a href="https://ingmarweber.de/" target="_blank" style="color:var(--blue-light);text-decoration:none;">Dr. Ingmar Weber</a></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cv-section">
+        <h2 class="section-title">Awards &amp; Honors</h2>
+        <div class="cv-entry">
+          <div class="cv-year">2026</div>
+          <div>
+            <div class="cv-title"><a href="https://engr.ucr.edu/fame" target="_blank" style="color:var(--blue-light);text-decoration:none;">FAME Award Recipient</a></div>
+            <div class="cv-place">Future Academics &amp; Mentorship Excellence (FAME) Program</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+</main>
+
+<script src="js/main.js"></script>
+</body>
+</html>
