@@ -234,3 +234,34 @@ body { font-family: var(--font-body); font-size: 16px; line-height: 1.7; color: 
   .pub-links { margin-left: 0; }
   .news-item { grid-template-columns: 70px 1fr; }
 }
+
+
+.award-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+}
+
+.award-honorable-mention {
+  background-color: #fff4cc;
+  color: #7a5800;
+  border: 1px solid #f0c832;
+}
+
+.award-best-paper {
+  background-color: #ffd700;
+  color: #5a3e00;
+  border: 1px solid #c9a800;
+}
+
+.award-distinguished {
+  background-color: #e8f0fe;
+  color: #1a3a7a;
+  border: 1px solid #4a6bc8;
+}
