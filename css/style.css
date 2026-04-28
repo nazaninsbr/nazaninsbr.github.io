@@ -193,6 +193,16 @@ body { font-family: var(--font-body); font-size: 16px; line-height: 1.7; color: 
   color: #555555;
   border: 1px dashed #aaaaaa;
 }
+.status-under-review::before {
+  content: '';
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  border: 1.5px dashed #aaaaaa;
+  margin-right: 5px;
+  vertical-align: middle;
+}
 /* SERVICE */
 .service-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem; }
 .service-card { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius); padding: 1.5rem; box-shadow: var(--shadow-sm); }
