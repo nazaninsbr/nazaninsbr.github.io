@@ -178,6 +178,21 @@ body { font-family: var(--font-body); font-size: 16px; line-height: 1.7; color: 
   color: #1a3a7a;
   border: 1px solid #4a6bc8;
 }
+
+.status-under-review {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+  background-color: #f0f0f0;
+  color: #555555;
+  border: 1px dashed #aaaaaa;
+}
 /* SERVICE */
 .service-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem; }
 .service-card { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius); padding: 1.5rem; box-shadow: var(--shadow-sm); }
