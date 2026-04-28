@@ -191,8 +191,8 @@ body { font-family: var(--font-body); font-size: 16px; line-height: 1.7; color: 
   vertical-align: middle;
   background-color: #f0f0f0;
   color: #555555;
-  border: 1px dashed #aaaaaa;
 }
+
 .status-under-review::before {
   content: '';
   display: inline-block;
