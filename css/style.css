@@ -130,6 +130,8 @@ body { font-family: var(--font-body); font-size: 16px; line-height: 1.7; color: 
 .pub-card.venue-conf, .pub-card.venue-cscw, .pub-card.venue-emnlp { border-left-color: var(--blue-light); }
 /* workshop → yellow */
 .pub-card.venue-workshop { border-left-color: var(--yellow-dark); }
+/* doctoral consortium → indigo */
+.pub-card.venue-doctoral { border-left-color: var(--indigo); }
 /* preprint/arxiv → gray */
 .pub-card.venue-arxiv { border-left-color: var(--gray-400); }
 
