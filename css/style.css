@@ -9,6 +9,7 @@
   --yellow-dark:  #c99a00;
   --yellow-light: #fef8e1;
   --orange:       #e67e22;
+  --orange-light: #FFC067;
   --white:        #ffffff;
   --off-white:    #f7f9fc;
   --gray-100:     #eef1f6;
@@ -146,6 +147,8 @@ body { font-family: var(--font-body); font-size: 16px; line-height: 1.7; color: 
 .venue-badge.green { background: #e1f5ee; color: #0f6e56; }
 /* workshop badge → yellow */
 .venue-badge.yellow { background: var(--yellow-light); color: var(--yellow-dark); }
+.venue-badge.orange { background: var(--orange-light); color: var(--orange); }
+
 /* preprint/arxiv badge → gray */
 .venue-badge.gray { background: var(--gray-100); color: var(--gray-600); }
 .pub-year { font-size: 0.75rem; color: var(--gray-400); }
