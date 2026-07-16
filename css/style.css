@@ -8,6 +8,7 @@
   --yellow:       #f5c842;
   --yellow-dark:  #c99a00;
   --yellow-light: #fef8e1;
+  --orange:       #e67e22;
   --white:        #ffffff;
   --off-white:    #f7f9fc;
   --gray-100:     #eef1f6;
@@ -131,7 +132,7 @@ body { font-family: var(--font-body); font-size: 16px; line-height: 1.7; color: 
 /* workshop → yellow */
 .pub-card.venue-workshop { border-left-color: var(--yellow-dark); }
 /* doctoral consortium → indigo */
-.pub-card.venue-doctoral { border-left-color: var(--indigo); }
+.pub-card.venue-doctoral { border-left-color: var(--orange); }
 /* preprint/arxiv → gray */
 .pub-card.venue-arxiv { border-left-color: var(--gray-400); }
 
